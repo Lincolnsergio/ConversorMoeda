@@ -1,0 +1,32 @@
+Conversor de Moedas – Projeto Java
+Sobre
+
+Esse projeto é um Conversor de Moedas feito em Java.
+Ele permite transformar valores entre USD, BRL, EUR e ARS usando taxas de câmbio reais da internet.
+
+O objetivo é aprender a criar menus interativos no console, trabalhar com APIs e manipular dados em Java de forma prática.
+
+Como usar
+
+Abra o projeto no IntelliJ IDEA.
+
+Rode o arquivo Main.java.
+
+Siga o menu: escolha a moeda, digite o valor e veja o resultado.
+
+Você pode continuar convertendo ou sair do programa a qualquer momento.
+
+Funcionalidades
+
+Conversão entre 6 pares de moedas.
+
+Valores sempre atualizados com a taxa real.
+
+Resultado exibido com duas casas decimais e a moeda correspondente.
+
+Menu interativo simples e fácil de usar.
+
+Desafios do projeto
+
+É um projeto simples, mas ensina conceitos importantes: menus, interatividade, APIs e manipulação de dados em Java.
+Perfeito para quem está começando e quer ver algo real funcionando.
